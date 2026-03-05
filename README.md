@@ -114,7 +114,7 @@ A proporção entre elogios e críticas revelou:
 
 O conjunto de dados apresenta predominância marcante de expressões positivas, indicando alta satisfação geral dos consumidores com os produtos avaliados.
 
-![Proporção de Elogios vs. Críticas](images/sentimento_pie.png)
+<img src="images/sentimento_pie.png" width="400">
 
 ### 6.3 Distribuição de Entidades por Tipo
 
