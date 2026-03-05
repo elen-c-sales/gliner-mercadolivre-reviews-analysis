@@ -4,6 +4,8 @@
 
 GLiNER (Generalist and Lightweight Named Entity Recognition) é um modelo de reconhecimento de entidades nomeadas (NER) pré-treinado, desenvolvido para realizar extração de entidades em múltiplos idiomas, incluindo português brasileiro. O modelo utiliza a arquitetura de transformers e é otimizado para tarefas de NER zero-shot e few-shot, permitindo definir categorias de entidades de forma flexível em tempo de execução (ÜSTÜN et al., 2023).
 
+<img width="1607" height="620" alt="apresentacao" src="https://github.com/user-attachments/assets/0ffef73b-0353-42d3-a153-478041a47151" />
+
 ### Características Técnicas
 
 - **Arquitetura**: Transformer-based span classification
